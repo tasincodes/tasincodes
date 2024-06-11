@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in the M
 ### 🔭 I’m currently working on
 - Building scalable web applications using the MERN stack
 - Developing RESTful APIs with Node.js and Express
-- Creating interactive front-end interfaces with React
+- learning Dev-ops
 - Exploring advanced Python concepts and frameworks
 
 ### 🌱 I’m currently learning
