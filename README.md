@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in the M
 
 ### 📫 How to reach me:
 - Email: shahriartasin2000@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shahriartasin2000/)
+- LinkedIn: [Shahrier Tasin](https://www.linkedin.com/in/shahriartasin2000/)
 
 ### ⚡ Fun fact:
 - I love solving coding challenges on platforms like LeetCode and HackerRank.
